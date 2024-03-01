@@ -1,2 +1,2 @@
 Test
-TEST TEST TEST 12gitsomething
+TEST TEST TEST 12
