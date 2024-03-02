@@ -1,3 +1,3 @@
 This is test repository
 No it is not.
-Do not change!!!
+It would be good if we do not touch this file. Please!
